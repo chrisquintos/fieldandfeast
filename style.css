@@ -140,6 +140,7 @@ hr{
     font-size: 3em;
     color: var(--midnight-blue);
     padding: 5px;
+	
     
 }
 .offering-container {
@@ -167,7 +168,8 @@ hr{
 
 .offering-card h3 {
     margin-top: 0;
-    font-size: 1.8em;
+    font-size: 2em;
+	font-weight: bold;
 }
 
 .offering-card ul {
